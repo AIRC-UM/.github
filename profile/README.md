@@ -1,3 +1,5 @@
+<img width="700" height="280" alt="lab_logo_small" src="https://github.com/user-attachments/assets/f0b40d73-bce1-4332-8416-67ba8c3d28d0" />
+
 ## Welcome to the AIRC Lab！
 
 Welcome to the GitHub homepage of the Artificial Intelligence and Robot Control (AIRC) Lab. 
